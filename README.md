@@ -10,7 +10,7 @@ I am starting my python journey.
 - |->functions & builtin function
 - |->list tuple sets and dictionaries
 
-**1st day of my python programming**
+**2st day of my python programming**
 - |->Arrays
 - |->Link list
 - |->Heaps
